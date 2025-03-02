@@ -1,4 +1,4 @@
-# 15 Years of Steam: Marketplace and Genre Trends
+# 15 Years of Steam: Marketplace Trends and SEO Insights for Increased Discovery
 
 ## Business Problem Statement
 After the covid pandemic, the video game industry has seen slower  growth and more cost-saving measures. Towards the end of 2023 and continuing into 2024 a large number of layoffs was conducted, with over 10,000 jobs lost in 2023 and at least 8,000 in 2024. Thus, it is becoming more important to make optimal marketing decisions with limited resources to manage risks when launching a new product.
